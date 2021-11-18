@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerFrutas</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="img">Imagen fruta seleccionada</string>
+</resources>
